@@ -1,2 +1,2 @@
 # GitHubTest
-CS102 lab for GitHub
+Writing test for lab
